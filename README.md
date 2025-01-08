@@ -32,4 +32,9 @@ __Ex 5:__
 
 __Ex 6:__
 
-1) 
+1)
+![11](https://github.com/user-attachments/assets/d3e1a88d-db83-443e-9dca-86d60a2db44e)
+   
+![12](https://github.com/user-attachments/assets/ac13383b-7ffe-4031-b75b-ca990efebd0c)
+
+__Ex 7:__
