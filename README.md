@@ -56,3 +56,10 @@ Créez une règle pour définir les oncles et tantes :
 2) ![18](https://github.com/user-attachments/assets/68afc901-eefe-4538-9f27-b30a32ad2772)
 
 __Ex 9:__
+
+Étendez la base de connaissances pour inclure d'autres relations familiales. Ajoutez de nouveaux faits pour
+des cousins et des tantes :
+![20](https://github.com/user-attachments/assets/0762fb68-6baa-45bb-ba2d-0319236043fc)
+
+Interrogez la base de connaissances pour trouver les cousins de Paul :
+![19](https://github.com/user-attachments/assets/73d62cc0-0760-4734-bcb9-fd258aa38cdc)
