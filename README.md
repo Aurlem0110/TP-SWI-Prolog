@@ -16,3 +16,8 @@ Ajoutez une règle pour définir ce qu’est un grand-parent :
 
 __Ex3:__
 Ajoutez une règle pour définir les frères et sœurs :
+![6](https://github.com/user-attachments/assets/fa4002e1-18bf-45bf-a1c7-eaa9c7422a6a)
+
+1) ![7](https://github.com/user-attachments/assets/937c6fbe-6cc3-4260-9d8a-ce0206ae1066)
+
+__Ex 4:__
