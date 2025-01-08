@@ -29,6 +29,8 @@ soeur(X, Y) :- femme(X), parent(Z, X), parent(Z, Y).
 oncle(X, Y) :- frere(X, Z), parent(Z, Y).
 tante(X, Y) :- soeur(X, Z), parent(Z, Y).
 
+cousin(X, Y) :- parent(Z, X), frere(Z, W), parent(W, Y).
+
 longueur([], 0).
 longueur([_ | Queue], N) :- longueur(Queue, M), N is M + 1.
 
