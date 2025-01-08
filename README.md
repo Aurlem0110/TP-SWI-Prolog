@@ -21,3 +21,9 @@ Ajoutez une règle pour définir les frères et sœurs :
 1) ![7](https://github.com/user-attachments/assets/937c6fbe-6cc3-4260-9d8a-ce0206ae1066)
 
 __Ex 4:__
+
+1) ![8](https://github.com/user-attachments/assets/ed0698f9-1987-4701-80b8-87ec97634e22)
+
+2) ![9](https://github.com/user-attachments/assets/7244fb5f-fa4a-41a3-8d52-2857c2c75590)
+
+__Ex 5:__
