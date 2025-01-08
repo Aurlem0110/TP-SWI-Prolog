@@ -38,3 +38,21 @@ __Ex 6:__
 ![12](https://github.com/user-attachments/assets/ac13383b-7ffe-4031-b75b-ca990efebd0c)
 
 __Ex 7:__
+
+Ajoutez une règle pour vérifier si un élément est présent dans une liste :
+![14](https://github.com/user-attachments/assets/e547776b-c03f-4b23-b9e9-3b33fc477f94)
+
+Posez la question suivante pour trouver si Marie est présente dans la liste contenant pierre, marie et paul
+![13](https://github.com/user-attachments/assets/c985bfcb-731a-4713-a7da-877c830c16ba)
+
+__Ex 8:__
+
+Créez une règle pour définir les oncles et tantes :
+![15](https://github.com/user-attachments/assets/c3ad4041-ee0e-4bb7-8f60-32039e551414)
+![17](https://github.com/user-attachments/assets/e1af032e-05e2-4305-9736-7e2641f4687a)
+
+1) ![16](https://github.com/user-attachments/assets/e144c5c7-e3d7-4c39-81b9-d1d08012ec77)
+
+2) ![18](https://github.com/user-attachments/assets/68afc901-eefe-4538-9f27-b30a32ad2772)
+
+__Ex 9:__
