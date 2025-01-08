@@ -27,3 +27,9 @@ __Ex 4:__
 2) ![9](https://github.com/user-attachments/assets/7244fb5f-fa4a-41a3-8d52-2857c2c75590)
 
 __Ex 5:__
+
+1) ![10](https://github.com/user-attachments/assets/fde82d82-3d32-407f-8ab6-89199a38e6e9)
+
+__Ex 6:__
+
+1) 
