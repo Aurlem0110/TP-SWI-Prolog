@@ -19,3 +19,6 @@ grandparent(X, Y) :- parent(X, Z), parent(Z, Y).
 
 frere(X, Y) :- homme(X), parent(Z, X), parent(Z, Y).
 soeur(X, Y) :- femme(X), parent(Z, X), parent(Z, Y).
+
+longueur([], 0).
+longueur([_ | Queue], N) :- longueur(Queue, M), N is M + 1.
