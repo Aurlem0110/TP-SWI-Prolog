@@ -15,3 +15,4 @@ parent(marc, sophie).
 pere(X, Y) :- homme(X), parent(X, Y).
 mere(X, Y) :- femme(X), parent(X, Y).
 
+grandparent(X, Y) :- parent(X, Z), parent(Z, Y).
